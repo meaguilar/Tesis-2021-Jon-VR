@@ -1,5 +1,5 @@
 # Tesis-2021-Jon-VR
-## Proyecto de tesis "ELABORACIÓN DE UN AMBIENTE INMERSIVO, EN ENTORNOS 3D CON PROCESAMIENTO DE SONIDO" ##
+## "ELABORACIÓN DE UN AMBIENTE INMERSIVO, EN ENTORNOS 3D CON PROCESAMIENTO DE SONIDO" ##
 
 ### Objetivos:###
 
@@ -7,4 +7,4 @@
 *Diseñar  un entorno virtual inmersivo del edificio “Jon de Cortina, S.J.” en su segundo nivel que permita a los usuarios realizar un recorrido interactivo.
 *Programar la interactividad de un entorno 3d haciendo uso de  gafas de Realidad Virtual.
 
-
+Este proyecto fue desarrollado en Unity.
