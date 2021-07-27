@@ -1,6 +1,12 @@
 # Tesis-2021-Jon-VR
 ## "ELABORACIÓN DE UN AMBIENTE INMERSIVO, EN ENTORNOS 3D CON PROCESAMIENTO DE SONIDO" ##
 
+Tesis desarrollada para Universidad José Simeón Cañas por los estudiantes:
+* Josseh Mario Blanco Amaya
+* Rodrigo Alejandro Rovelo Santamaria
+* Carlos Ernesto Merino Silva
+* Christian Alexander Rivera Rivas
+
 ### Objetivos: ###
 
 * Describir el estado del arte en relación con dispositivos de realidad virtual, tanto en lo referente a aspectos tecnológicos como a sus usos en algunos ámbitos. 
